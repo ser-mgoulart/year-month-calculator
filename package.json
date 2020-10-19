@@ -1,0 +1,23 @@
+{
+  "name": "year-month-diff-calculator",
+  "version": "1.0.0",
+  "description": "It calculates the difference between the given year and date",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ser-mgoulart/year-month-calculator.git"
+  },
+  "keywords": [
+    "nodejs",
+    "calculator"
+  ],
+  "author": "Mathias Goulart / Amanda Melo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ser-mgoulart/year-month-calculator/issues"
+  },
+  "homepage": "https://github.com/ser-mgoulart/year-month-calculator#readme"
+}
